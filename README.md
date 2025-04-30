@@ -21,7 +21,7 @@
 - Git, GitHub Pages
 
 //===== Ссылка на игру: 
-https://твоеимя.github.io/car-game/
+https://ulzirok.github.io/car-game/
 
 //===== Как играть:
 
