@@ -20,8 +20,7 @@
 - JavaScript (Vanilla JS, без библиотек)
 - Git, GitHub Pages
 
-## Ссылка на игру: 
-https://ulzirok.github.io/car-game/
+## Ссылка на игру: https://ulzirok.github.io/car-game/
 
 ## Как играть:
 
